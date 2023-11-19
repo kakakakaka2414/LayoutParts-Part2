@@ -35,7 +35,7 @@
 }
 
 .shadow--red{
-  color: #000;
+  color: #fff;
   background: #fd0f0fd9;
   box-shadow: 0 5px 0 rgba(63, 5, 5, 0.851),0 5px 1px rgba(63, 5, 5, 0.851);
 }
